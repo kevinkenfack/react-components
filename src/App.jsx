@@ -1,9 +1,9 @@
-import Components from './Components.jsx';
+import AllComponents from "./components/AllComponents.jsx";
 
 function App() {
   return (
     <div className="App">
-      <Components />
+      <AllComponents />
     </div>
   );
 }
