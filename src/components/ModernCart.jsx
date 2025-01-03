@@ -22,7 +22,7 @@ const ModernCart = () => {
       price: "179.99€",
       color: "bg-gradient-to-r from-purple-500 to-purple-600",
       rating: 4.9,
-      image: "/clementines.webp"
+      image: "/g9.webp"
     },
     {
       id: 3,
