@@ -31,6 +31,30 @@ const ModernCart = () => {
       color: "bg-gradient-to-r from-green-500 to-green-600",
       rating: 4.7,
       image: "/clementines.webp"
+    },
+    {
+      id: 2,
+      name: "Adidas Ultraboost",
+      price: "179.99€",
+      color: "bg-gradient-to-r from-purple-500 to-purple-600",
+      rating: 4.9,
+      image: "/g9.webp"
+    },
+    {
+      id: 2,
+      name: "Adidas Ultraboost",
+      price: "179.99€",
+      color: "bg-gradient-to-r from-purple-500 to-purple-600",
+      rating: 4.9,
+      image: "/g9.webp"
+    },
+    {
+      id: 2,
+      name: "Adidas Ultraboost",
+      price: "179.99€",
+      color: "bg-gradient-to-r from-purple-500 to-purple-600",
+      rating: 4.9,
+      image: "/g9.webp"
     }
   ];
 
